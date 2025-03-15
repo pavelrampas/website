@@ -57,7 +57,7 @@ a:hover {
 @media (max-width: 768px) {
 	.container {
 		display: block;
-		min-height: auto;
+		min-height: initial;
 	}
 	aside {
 		width: auto;
